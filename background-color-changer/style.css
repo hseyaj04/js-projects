@@ -1,0 +1,41 @@
+.button{
+    display: inline-block; /* Ensures span behaves like a box */
+    width: 150px; /* Adjust as needed */
+    height: 50px; /* Adjust as needed */
+    border: 2px solid black; /* Black border */
+    margin: 10px; /* Spacing between elements */
+    border-radius: 10px;
+    
+}
+
+#grey{
+    background-color: grey;
+}
+#yellow{
+    background-color: yellow;
+}
+#blue{
+    background-color: blue;
+}
+#beige{
+    background-color: beige;
+}
+#burlywood{
+    background-color: burlywood;
+}
+#aquamarine{
+    background-color:aquamarine;
+}
+#cadetblue{
+    background-color:cadetblue;
+}
+#cornflowerblue{
+    background-color:cornflowerblue;
+}
+#indianred{
+    background-color:indianred;
+}
+
+#div1{
+    font-family: 'Courier New', Courier, monospace;
+}
