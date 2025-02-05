@@ -1,0 +1,19 @@
+body {
+    font-family: -apple-system, sans-serif;
+    background-color: #f0f0f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#clock {
+    font-size: 80px;
+    font-weight: 600;
+    color: #333;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
